@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ajjaddu/IBIMA-Integromics">
-    <img src="Logo_UMA_IBIMA.jpg" alt="Logo" width="1000" height="200">
+    <img src="Logo_UMA_IBIMA.jpg" alt="Logo" width="1000" height="175">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
