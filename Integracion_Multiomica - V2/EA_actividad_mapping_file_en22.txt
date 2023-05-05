@@ -1,0 +1,67 @@
+SampleID	Tratamiento	Tratamienton	Description
+C181	control	1	C181
+REU47	control	1	REU47
+REU48	control	1	REU48
+REU144	High activity	3	REU144
+C180	control	1	C180
+C173	control	1	C173
+C174	control	1	C174
+C177	control	1	C177
+C178	control	1	C178
+C179	control	1	C179
+C175	control	1	C175
+REU158	High activity	3	REU158
+REU138	Low activity	2	REU138
+REU3	Low activity	2	REU3
+REU31	High activity	3	REU31
+REU114	Low activity	2	REU114
+REU97	High activity	3	REU97
+REU171	Low activity	2	REU171
+REU122	Low activity	2	REU122
+REU102	High activity	3	REU102
+EA98	High activity	3	EA98
+REU2	High activity	3	REU2
+REU14	Low activity	2	REU14
+REU15	Low activity	2	REU15
+REU18	High activity	3	REU18
+REU23	High activity	3	REU23
+REU29	High activity	3	REU29
+REU30	Low activity	2	REU30
+REU32	High activity	3	REU32
+REU35	High activity	3	REU35
+REU38	Low activity	2	REU38
+REU39	Low activity	2	REU39
+REU40	High activity	3	REU40
+REU41	Low activity	2	REU41
+REU45	Low activity	2	REU45
+REU55	Low activity	2	REU55
+REU59	High activity	3	REU59
+REU71	High activity	3	REU71
+REU80	High activity	3	REU80
+REU84	Low activity	2	REU84
+REU88	Low activity	2	REU88
+REU93	Low activity	2	REU93
+REU96	High activity	3	REU96
+REU101	High activity	3	REU101
+REU104	Low activity	2	REU104
+REU107	High activity	3	REU107
+REU141	High activity	3	REU141
+REU145	High activity	3	REU145
+REU152	High activity	3	REU152
+REU153	High activity	3	REU153
+REU161	High activity	3	REU161
+REU167	High activity	3	REU167
+REU169	Low activity	2	REU169
+REU170	High activity	3	REU170
+REU98	control	1	REU98
+EA91	control	1	EA91
+EA99	control	1	EA99
+EA100	control	1	EA100
+EA103	control	1	EA103
+REU25	control	1	REU25
+REU36	control	1	REU36
+REU63	control	1	REU63
+REU68	control	1	REU68
+REU100	control	1	REU100
+REU151	control	1	REU151
+REU70	Low activity	2	REU70
