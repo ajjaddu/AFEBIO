@@ -145,9 +145,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Antonio Cantarero Cuenca - acantarero@ibima.eu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ajjaddu/IBIMA-Integromics](https://github.com/ajjaddu/IBIMA-Integromics)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
