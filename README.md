@@ -89,7 +89,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![R][cran.r-project.org]][R-url]
+* [![R][R-image]][R-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,3 +246,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 [R-url]: https://cran.r-project.org/
+[R-image]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
