@@ -45,8 +45,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Multiomics integration is a technique that combines multiple sources of biological data to obtain a more complete and accurate view of biological processes. An application in R Shiny has been developed to facilitate this task for users with little knowledge of bioinformatics. This tool allows the integration and visualisation of genomic, transcriptomic, proteomic, metabolomic and other data in a single interactive and easy-to-use platform. In addition, the application provides several statistical tools to analyse and explore the integrated data. With this application, even users with no experience in bioinformatics can perform multi-omics analysis and obtain valuable information about complex biological processes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -75,24 +73,6 @@ Multiomics integration is a technique that combines multiple sources of biologic
   ```sh
   BiocManager::install("mixOmics")
   ```
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -100,9 +80,19 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The usage of this tool is very intuitive. It has three main sections:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Uploading files
+
+This section is for loading the datasets of each omic and normalize the data if necessary. In this section you can also upload a file with the groups of your samples, for analysis or graphics purposes. 
+
+* Analysis
+
+This section is where you choose the omics, model and parameters to evaluate your data. 
+
+* Mixomics
+
+This is the grapich section, according to the chosen model and parameters different graphs will be represented.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
