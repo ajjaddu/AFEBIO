@@ -1,20 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -22,19 +5,10 @@
     <img src="Logo_UMA_IBIMA.jpg" alt="Logo" width="1000" height="175">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">IBIMA Integromics</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    An awesome and easy-to-use software to do multi-omics integration from scratch
   </p>
 </div>
 
@@ -79,16 +53,6 @@ Multiomics integration is a technique that combines multiple sources of biologic
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 * [![R][R-image]][R-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -97,17 +61,20 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* R 4.1.3
   ```sh
-  npm install npm@latest -g
+  https://cran.r-project.org/bin/windows/base/old/4.1.3/R-4.1.3-win.exe
   ```
-
+* RStudio
+  ```sh
+  https://download1.rstudio.org/electron/windows/RStudio-2023.03.0-386.exe
+  ```
+* mixOmics
+  ```sh
+  BiocManager::install("mixOmics")
+  ```
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
@@ -247,3 +214,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [JQuery-url]: https://jquery.com 
 [R-url]: https://cran.r-project.org/
 [R-image]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
+[RStudio-url]: https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory%2Fshiny.json
