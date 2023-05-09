@@ -73,7 +73,7 @@ Multiomics integration is a technique that combines multiple sources of biologic
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The usage of this tool is very intuitive. It has three main sections:
+The usage of this tool is very intuitive. The main file of the software is integration_shiny.R, by executing it you open the interface that has three main sections:
 
 * Uploading files
 
