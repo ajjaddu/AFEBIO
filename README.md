@@ -96,7 +96,7 @@ This is the grapich section, according to the chosen model and parameters differ
 
 - Andrés González Jiménez - bioinformatica@ibima.eu
 
-Project Link: [https://github.com/ajjaddu/IBIMA-Integromics](https://github.com/ajjaddu/IBIMA-Integromics)
+Project Link: [https://github.com/ajjaddu/AFEBIO](https://github.com/ajjaddu/IBIMA-Integromics)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
