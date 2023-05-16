@@ -5,7 +5,7 @@
     <img src="Logo_UMA_IBIMA.jpg" alt="Logo" width="1000" height="175">
   </a>
 
-  <h3 align="center">Automated Functional Enrichment and Biomedical Integrated Omics (AFEBIO)</h3>
+  <h3 align="center">Advanced Functional Enrichment and Biomedical Integrated Omics (AFEBIO)</h3>
 
   <p align="center">
     An awesome and easy-to-use software to do multi-omics integration from scratch
